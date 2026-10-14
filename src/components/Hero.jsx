@@ -24,6 +24,7 @@ export default function Hero() {
         <p className="mb-5 text-sm font-medium uppercase tracking-[0.2em] text-slate-400">Decolagem em</p>
         <Countdown />
         <p className="mt-6 text-sm text-slate-400">✈️ Curitiba · 19 de novembro de 2026 · 20h55</p>
+        <p className="mt-1 text-sm text-slate-400">🏠 Retorno · 8 de dezembro de 2026</p>
       </div>
 
       <a

@@ -55,7 +55,7 @@ export const itinerary = [
     city: "Londres",
     country: "Inglaterra",
     flag: "🇬🇧",
-    description: "Último capítulo da aventura.",
+    description: "Último capítulo da aventura — retorno em 08/12.",
     type: "retorno",
   },
 ];
